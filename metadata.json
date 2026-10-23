@@ -1,0 +1,6 @@
+{
+  "name": "PathFinder AI: College Career Guide & Roadmap Agent",
+  "description": "An intelligent career guide agent for college students that discovers interests, recommends career paths, builds personalized learning roadmaps with free courses, and tracks progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
